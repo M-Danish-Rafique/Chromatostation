@@ -1,0 +1,29 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+**/venv/
+**/venv38/
+
+# Build and packaging artifacts
+build/
+dist/
+*.spec~
+*.exe
+*.dll
+*.log
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
