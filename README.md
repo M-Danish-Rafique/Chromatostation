@@ -1,5 +1,7 @@
 # N2000 Chromatostation
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![CI](https://github.com/your-username/your-repo/actions/workflows/python-ci.yml/badge.svg)
+
 A polished desktop application for chromatogram analysis, report viewing, and PDF report generation. This project includes two variants:
 
 - Offline workflow for local analysis and report generation
