@@ -27,7 +27,7 @@ A polished desktop application for chromatogram analysis, report viewing, and PD
 ### 1. Clone the repository
 
 ```bash
-git clone <your-github-repo-url>
+git clone https://github.com/M-Danish-Rafique/Chromatostation
 cd Software
 ```
 
